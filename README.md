@@ -59,16 +59,21 @@ I’m constantly learning, building, and trying to improve a little every day �
 - Elite + Gold — NPTEL Internet of Things (IoT)  
 - **700+ DSA problems solved** across Codeforces, CodeChef, LeetCode, and GfG  
 - Participated in 5+ hackathons and 50+ coding contests
+- Achieved Rank 1186 in the Amazon ML Cup 2025 as part of Team “Neural Ninja”.
 
 ---
 
 ### 🛠️ Tech Stack
 **Programming:** Java, Python, C, C++, JavaScript, TypeScript 
+</br>
 **Web/Backend:** Node.js, Express.js, REST APIs, Next.js, React.js,
-**Backend:** Node.js, Express.js, MERN  
+</br> 
 **Database:** MongoDB, SQL 
+</br>
 **Tools:** Git, GitHub, Docker, Linux, Postman
+</br>
 **Libraries:** NumPy, Pandas, Matplotlib
+</br>
 **Soft skills:** Team leadership, Stress management, Analytics and work management qualities
 
 ---
