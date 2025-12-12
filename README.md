@@ -66,7 +66,7 @@ I’m constantly learning, building, and trying to improve a little every day �
 ### 🛠️ Tech Stack
 **Programming:** Java, Python, C, C++, JavaScript, TypeScript 
 </br>
-**Web/Backend:** Node.js, Express.js, REST APIs, Next.js, React.js,
+**Web/Backend:** Node.js, Express.js, REST APIs, Next.js, React.js
 </br> 
 **Database:** MongoDB, SQL 
 </br>
