@@ -4,11 +4,11 @@
 <h1 align="center">👋 Hi, I'm Pulkit Chopra</h1>
 <p align="center">
   <b>Full Stack Developer · Competitive Programmer · Community Lead</b><br/>
-  B.E. Computer Science — Chandigarh University • CGPA: 8.44
+  B.E. Computer Science — Chandigarh University • CGPA: 8.5
 </p>
 
 <p align="center">
-  <a href="mailto:choprapulkitt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yellow?style=for-the-badge"/></a>
+  <a href="mailto:thepulkitt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yellow?style=for-the-badge"/></a>
   <a href="https://codeforces.com/profile/pulkitdarky"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-red?style=for-the-badge"/></a>
   <a href="https://leetcode.com/u/pulkitdarky/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge"/></a>
   <a href="https://www.codechef.com/users/pulkitdarky"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/></a>
@@ -79,7 +79,7 @@ I’m constantly learning, building, and trying to improve a little every day �
 ---
 
 ### 📫 Connect with me
-- Email: choprapulkitt@gmail.com  
+- Email: thepulkitt@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/pulkitdarky/(#)  
 ---
 
